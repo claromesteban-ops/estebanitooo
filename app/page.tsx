@@ -56,10 +56,10 @@ export default function Page() {
 
         <CardFooter className="flex-col gap-2">
           <Button type="submit" className="w-full">
-            Login
+            Mike
           </Button>
           <Button variant="outline" className="w-full">
-            Login with Holly
+            Login with Holly Wheelher
           </Button>
         </CardFooter>
       </Card>
